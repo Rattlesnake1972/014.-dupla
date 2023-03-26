@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\014. dupla\014. dupla\bin\Debug\_014.dupla.exe.config
+C:\Users\gratt\source\repos\014. dupla\014. dupla\bin\Debug\_014.dupla.exe
+C:\Users\gratt\source\repos\014. dupla\014. dupla\bin\Debug\_014.dupla.pdb
+C:\Users\gratt\source\repos\014. dupla\014. dupla\obj\Debug\014. dupla.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\014. dupla\014. dupla\obj\Debug\_014.dupla.exe
+C:\Users\gratt\source\repos\014. dupla\014. dupla\obj\Debug\_014.dupla.pdb
